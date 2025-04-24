@@ -1,0 +1,6 @@
+@IdentifyFrameworkInWebAPI_HostAddress = http://localhost:5167
+
+GET {{IdentifyFrameworkInWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
